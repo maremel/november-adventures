@@ -1,0 +1,11 @@
+Model Information:
+* title:	Church of the Silence (Doctor Who)
+* source:	https://sketchfab.com/3d-models/church-of-the-silence-doctor-who-4f92ab80877648de88fae9cac579649e
+* author:	Spyduck (https://sketchfab.com/spyduck)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Church of the Silence (Doctor Who)" (https://sketchfab.com/3d-models/church-of-the-silence-doctor-who-4f92ab80877648de88fae9cac579649e) by Spyduck (https://sketchfab.com/spyduck) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
