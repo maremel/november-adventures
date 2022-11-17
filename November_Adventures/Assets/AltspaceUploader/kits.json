@@ -1,0 +1,19 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "2135924787694797214",
+            "Name": "Angels' Choir Room",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
