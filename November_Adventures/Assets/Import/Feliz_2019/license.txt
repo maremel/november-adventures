@@ -1,0 +1,11 @@
+Model Information:
+* title:	Feliz 2019
+* source:	https://sketchfab.com/3d-models/feliz-2019-8c6d6a82e8184ebf9e3d595fe3ed9d77
+* author:	mangelcr69 (https://sketchfab.com/mangelcr69)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Feliz 2019" (https://sketchfab.com/3d-models/feliz-2019-8c6d6a82e8184ebf9e3d595fe3ed9d77) by mangelcr69 (https://sketchfab.com/mangelcr69) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

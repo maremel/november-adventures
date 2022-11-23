@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rudolph the reindeer
+* source:	https://sketchfab.com/3d-models/rudolph-the-reindeer-0ce787f7f6444e9bbf07afa64c7ff67e
+* author:	Ahriana (https://sketchfab.com/Ahriana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rudolph the reindeer" (https://sketchfab.com/3d-models/rudolph-the-reindeer-0ce787f7f6444e9bbf07afa64c7ff67e) by Ahriana (https://sketchfab.com/Ahriana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
