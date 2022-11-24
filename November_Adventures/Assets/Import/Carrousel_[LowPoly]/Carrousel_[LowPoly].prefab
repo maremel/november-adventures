@@ -104,8 +104,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 412107275637043806}
-  m_LocalRotation: {x: 0.2294301, y: 0, z: -0, w: -0.97332513}
-  m_LocalPosition: {x: 0, y: -1.0142698, z: -0.06796552}
+  m_LocalRotation: {x: 0.20814246, y: -0, z: -0, w: -0.9780985}
+  m_LocalPosition: {x: 0, y: -2.0206816, z: -0.22428343}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 650679787518730150}
@@ -124,7 +124,7 @@ Transform:
   - {fileID: 3955609951176346599}
   - {fileID: 2645915691397258611}
   - {fileID: 3936672997206566601}
-  m_Father: {fileID: 8976143432241920485}
+  m_Father: {fileID: 4833978904644533062}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &508801559669775380
@@ -299,7 +299,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4833978904644533062}
   m_Layer: 0
-  m_Name: metal
+  m_Name: Wheel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -317,6 +317,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4211657950398486292}
+  - {fileID: 7535510395352845379}
   m_Father: {fileID: 6639753816934473114}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -603,8 +604,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 18.98573, z: -0.06796552}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 6639753816934473114}
-  - {fileID: 7535510395352845379}
+  - {fileID: 1845723727271563533}
   m_Father: {fileID: 1630406414746398229}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -814,6 +814,38 @@ Transform:
   - {fileID: 7971799550497159831}
   m_Father: {fileID: 650679787518730150}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1174370809112694539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1845723727271563533}
+  m_Layer: 0
+  m_Name: base
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1845723727271563533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174370809112694539}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6639753816934473114}
+  - {fileID: 6953341554726011171}
+  m_Father: {fileID: 8976143432241920485}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1190705251012711544
 GameObject:
@@ -1382,13 +1414,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1679628619931090230}
-  m_LocalRotation: {x: 0.021814883, y: 0, z: -0, w: -0.99976206}
-  m_LocalPosition: {x: 0, y: 1.0142698, z: 0.06796552}
+  m_LocalRotation: {x: 0.021814875, y: -0, z: -0, w: -0.999762}
+  m_LocalPosition: {x: 0, y: 1.0142784, z: 0.06796552}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4833978904644533062}
-  - {fileID: 6953341554726011171}
-  m_Father: {fileID: 8976143432241920485}
+  m_Father: {fileID: 1845723727271563533}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1797093637915390531
@@ -1414,12 +1445,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1797093637915390531}
-  m_LocalRotation: {x: -3.469447e-18, y: 0, z: 0, w: -1}
-  m_LocalPosition: {x: 0, y: -9.943476, z: -0.87238353}
+  m_LocalRotation: {x: -0.021814875, y: -0, z: -0, w: 0.999762}
+  m_LocalPosition: {x: 0, y: -8.957783, z: -0.3698578}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 3444676485633777344}
-  m_Father: {fileID: 6639753816934473114}
+  m_Father: {fileID: 1845723727271563533}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2440420816177064078
@@ -4073,7 +4104,7 @@ GameObject:
   - component: {fileID: 5623171159112930764}
   - component: {fileID: 8538614298813407899}
   m_Layer: 0
-  m_Name: metal_metal_0
+  m_Name: Rim
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
