@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jingle Bells - 3December
+* source:	https://sketchfab.com/3d-models/jingle-bells-3december-94e1cec170be48c09859a863f37d872f
+* author:	zhixson (https://sketchfab.com/zhixson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jingle Bells - 3December" (https://sketchfab.com/3d-models/jingle-bells-3december-94e1cec170be48c09859a863f37d872f) by zhixson (https://sketchfab.com/zhixson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
