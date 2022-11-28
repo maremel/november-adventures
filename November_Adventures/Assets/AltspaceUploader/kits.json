@@ -2,11 +2,83 @@
     "uploadEntries": [
         {
             "AltspaceId": "2135924787694797214",
-            "Name": "Angels' Choir Room",
+            "Name": "Winter Wonderland",
             "IsEnabled": true,
             "UploadItems": [
                 {
-                    "PrefabFilepath": "",
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Winter_Hat.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Vintage_Stereo_Speaker_(low-res).prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Present_Box_Pattern_22.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Present_Box_Color_39.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Present_Box_Color_15.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Christmas_Candy_00.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Winter_Hat (1).prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/reindeer_visor.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Jingle_Bells_-_3December.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Bell Ringer.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/pair_of_8th.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/SM_MusicNote_03_lambert1_0.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/SM_MusicNote_02_lambert2_0.prefab",
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
