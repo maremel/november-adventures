@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barrel Hay Baler ver 2
+* source:	https://sketchfab.com/3d-models/barrel-hay-baler-ver-2-acbe95139dd741079c63484acefc41d3
+* author:	ostrogotsky (https://sketchfab.com/ostrogotsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barrel Hay Baler ver 2" (https://sketchfab.com/3d-models/barrel-hay-baler-ver-2-acbe95139dd741079c63484acefc41d3) by ostrogotsky (https://sketchfab.com/ostrogotsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

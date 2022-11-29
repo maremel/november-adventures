@@ -29,18 +29,18 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 5.0333333
-        value: {x: 2.78, y: -2.5910513, z: -0.14}
-        inSlope: {x: 0, y: -0.00038546615, z: 0}
-        outSlope: {x: 0, y: -0.00038546615, z: 0}
+        value: {x: 2.78, y: -2.59, z: -0.14}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 19.983334
-        value: {x: 2.78, y: -2.5989485, z: 25}
-        inSlope: {x: 0, y: -0.00038547453, z: 0}
-        outSlope: {x: 0, y: -0.00038547453, z: 0}
+        value: {x: 2.78, y: -2.5984163, z: 25}
+        inSlope: {x: 0, y: -0.00056577387, z: 0}
+        outSlope: {x: 0, y: -0.00056577387, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -56,7 +56,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 25.05
-        value: {x: 2.78, y: -2.6, z: 31.3}
+        value: {x: 2.78, y: -2.6, z: 25}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -174,6 +174,15 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+        time: 5.0333333
+        value: -2.59
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
         time: 25.016666
         value: -2.6
         inSlope: 0
@@ -248,7 +257,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 25.05
-        value: 31.3
+        value: 25
         inSlope: 0
         outSlope: 0
         tangentMode: 136
