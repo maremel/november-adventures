@@ -1,0 +1,11 @@
+Model Information:
+* title:	LANTERN
+* source:	https://sketchfab.com/3d-models/lantern-e90bc264b1614500b9925231da5357d8
+* author:	scdlmike (https://sketchfab.com/scdlmike)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LANTERN" (https://sketchfab.com/3d-models/lantern-e90bc264b1614500b9925231da5357d8) by scdlmike (https://sketchfab.com/scdlmike) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly lamp post
+* source:	https://sketchfab.com/3d-models/low-poly-lamp-post-02fb9604c73449aeb8c2373e865ebfc2
+* author:	Syllver (https://sketchfab.com/Syllver)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly lamp post" (https://sketchfab.com/3d-models/low-poly-lamp-post-02fb9604c73449aeb8c2373e865ebfc2) by Syllver (https://sketchfab.com/Syllver) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
