@@ -82,6 +82,12 @@
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2135924787694797214_winter_wonderland/Mr_Lunt's_Elf_Hat.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
                 }
             ],
             "PerPlatformAssets": false,

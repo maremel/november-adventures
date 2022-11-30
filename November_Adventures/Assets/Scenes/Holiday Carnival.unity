@@ -24,7 +24,7 @@ RenderSettings:
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
-  m_AmbientMode: 1
+  m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.41960785, g: 0.45500177, b: 0.627451, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: c283e3e8551cf9841bbc83657a168bc8, type: 2}
   m_HaloStrength: 0.5
@@ -11797,7 +11797,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1227768274
 Transform:
   m_ObjectHideFlags: 0
@@ -15539,6 +15539,10 @@ PrefabInstance:
     - target: {fileID: 7762136294447956683, guid: fcdcae5b2ad68824e85fbf2e95414f3c, type: 3}
       propertyPath: m_Layer
       value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7762136294447956683, guid: fcdcae5b2ad68824e85fbf2e95414f3c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7762136294447956683, guid: fcdcae5b2ad68824e85fbf2e95414f3c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -20777,7 +20781,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1507793045831955359, guid: 130a25116549af14d92a1e1e2a965568, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1968797848140822906, guid: 130a25116549af14d92a1e1e2a965568, type: 3}
       propertyPath: m_Layer
