@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Christmas Android Elf
+* source:	https://sketchfab.com/3d-models/animated-christmas-android-elf-071103148ee24e6b848c6c77e6af1ad4
+* author:	Franc.K (https://sketchfab.com/Franc.K)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Christmas Android Elf" (https://sketchfab.com/3d-models/animated-christmas-android-elf-071103148ee24e6b848c6c77e6af1ad4) by Franc.K (https://sketchfab.com/Franc.K) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
