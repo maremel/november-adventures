@@ -3850,7 +3850,7 @@ Rigidbody:
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_UseGravity: 0
   m_IsKinematic: 1
   m_Interpolate: 0
@@ -13966,8 +13966,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604467799}
   m_LocalRotation: {x: -0.000000029802312, y: -0.00000008940694, z: -0.73169327, w: 0.68163407}
-  m_LocalPosition: {x: -4.7, y: 7.59, z: 5.91}
-  m_LocalScale: {x: 1, y: 9, z: 7}
+  m_LocalPosition: {x: -5.52, y: 4.62, z: 5.28}
+  m_LocalScale: {x: 1, y: 12, z: 5}
   m_Children: []
   m_Father: {fileID: 1561107156}
   m_RootOrder: 3
@@ -29568,8 +29568,8 @@ GameObject:
   - component: {fileID: 4009849730937601379}
   - component: {fileID: 973685540987459720}
   - component: {fileID: 7073644528019230122}
-  - component: {fileID: 2946796509147683790}
   - component: {fileID: 2946796509147683791}
+  - component: {fileID: 2946796509147683790}
   m_Layer: 14
   m_Name: chair_2_green_0
   m_TagString: Untagged
